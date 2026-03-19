@@ -49,7 +49,6 @@ The model successfully identifies resemblances by displaying the closest matchin
 <img width="993" height="382" alt="Screenshot 2026-01-01 at 5 50 09 PM" src="https://github.com/user-attachments/assets/6f80ecff-9747-4ba8-ae7c-c21a7e914488" />
 
 
-## ⚠️ Academic Integrity
+## ⚠️ Disclaimer
 
-This repository is intended solely as a piece to showcase my learning journey. 
-If you are a student working on a similar assignment: **do not copy this code.** Plagiarism is a serious offense that can lead to expulsion. Use this only as a conceptual reference to understand KNN and high-dimensional image processing.
+This repository serves as a showcase of my technical growth and learning journey. The contents are intended strictly for educational and research purposes. All outputs should be treated as conceptual references rather than production-ready solutions.
